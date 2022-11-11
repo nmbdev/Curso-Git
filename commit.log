@@ -1,0 +1,111 @@
+commit 0d8741c805406bf25bb5870b70c534fbbe6f5e83
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 12:19:43 2022 -0500
+
+    Agregando dos parrafos
+
+commit cebab20e13de1c477a2f76638bf84fbc0cc238be
+Merge: 2b73b26 c53d687
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 12:17:59 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 2b73b2629e986431fc38ccd464b2f97eda45de5f
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:42:18 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit c53d6872e10ad7a059b59c2c1f74bf7ed0094f76
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:42:18 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 0e7ecd1fc8547b0027e6ed4524b2b6fbc62a6b10
+Merge: d80fcb3 e2c1479
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:31:39 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit e2c1479d2be92feb0989f05eb44e1b02b0f5ec1a
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:23:58 2022 -0500
+
+    Agregando index.js al index.html
+
+commit d80fcb369542c462ad90390f471df20311718b31
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:20:33 2022 -0500
+
+    Agregando style.css al index.html
+
+commit db8856fd901330b968c7d511966455b3591782d7
+Merge: 46ace29 a5a8121
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:04:27 2022 -0500
+
+    Merge branch 'js'
+
+commit 46ace29db66e005a694c1329f6a2cbe9bba58e2b
+Merge: 3a779ff c64479f
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 11:04:01 2022 -0500
+
+    Merge branch 'css'
+
+commit a5a8121b2b2910b541ba600ef3b9790b74daadeb
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 10:57:25 2022 -0500
+
+    Creando index.js
+
+commit 3a779ff081be017abe3932153a6e1dbd791e383d
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 10:52:42 2022 -0500
+
+    Actualizando rama html
+
+commit c64479fcb3d33d75665aafe5a601e18cbc4c5316
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 10:50:29 2022 -0500
+
+    Creando style.css
+
+commit c52f5563a369532d22676112bcf8a90b3b6bfad4
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Fri Nov 11 10:42:41 2022 -0500
+
+    Creando archivo index.html
+
+commit d5e7cd9a73d4972bd99eaac0389b9b6a75d1f9c2
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Mon Nov 7 11:46:36 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 688256d1e84d8edec7469251d772a0229caa43a1
+Author: nmbdev <90070537+nmbdev@users.noreply.github.com>
+Date:   Mon Nov 7 09:55:40 2022 -0500
+
+    Creando licencia del repositorio
+
+commit beed4aa2fdb612de8921298a643d93719ea99cac
+Author: nmbdev <developer.nmb@gmail.com>
+Date:   Mon Nov 7 09:44:32 2022 -0500
+
+    Agregando mas contenido al README
+
+commit c971bde61651745f6b2c3a567c460eadf4311c9e
+Author: NMBdev <developer.nmb@gmail.com>
+Date:   Mon Nov 7 07:40:26 2022 -0500
+
+    Agregando contenido inicial al archivo README
+
+commit 6b001a1dade90eab8e8f9c86e56e2328ad5b1411
+Author: NMBdev <developer.nmb@gmail.com>
+Date:   Mon Nov 7 07:35:29 2022 -0500
+
+    Primer commit 🤣
